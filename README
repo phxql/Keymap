@@ -38,6 +38,7 @@ To use this keymap, simply concatenate the file 'us.dev-de'
 to '/usr/share/X11/xkb/symbols/us' using the 'cat' command:
 
  # cd /usr/share/X11/xkb/symbols
+ # cp us us.bak
  # cat ~/your-git-stuff/Keymap/us.dev-de >> us
 
 
