@@ -12,12 +12,16 @@ key. E.g. <RAlt>+<a> will give you the german umlaut ä.
 Overview:
 
  1) German umlauts, ß and Euro-sign:
-        RAlt + A, O, U  ==>  Ä, Ö, Ü
-        RAlt + s        ==>  ß
-        RAlt + e        ==>  €
+
+RAlt + A, O, U  ==>  Ä, Ö, Ü
+
+RAlt + s        ==>  ß
+
+RAlt + e        ==>  €
 
  2) Some technical stuff:
-        RAlt + 1, 2, 3  ==>  ¹, ², ³
+
+RAlt + 1, 2, 3  ==>  ¹, ², ³
        
 Here's the complete keymap:
 
