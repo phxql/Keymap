@@ -9,9 +9,7 @@ document. It may be labeled AltGr on some keyboards.
 Most charachter are available by holding <RAlt> while typing another
 key. E.g. <RAlt>+<a> will give you the german umlaut ä.
 
-Overview:
-
- 1) German umlauts, ß and Euro-sign:
+## German umlauts
 
 RAlt + A, O, U  ==>  Ä, Ö, Ü
 
@@ -19,10 +17,12 @@ RAlt + s        ==>  ß
 
 RAlt + e        ==>  €
 
- 2) Some technical stuff:
+## Technical stuff
 
 RAlt + 1, 2, 3  ==>  ¹, ², ³
        
+## Complete keymap
+
 Here's the complete keymap:
 
 ![Keymap](keymap.png)
