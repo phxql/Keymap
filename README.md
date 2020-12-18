@@ -3,7 +3,7 @@
 This is a modified keymap for X11 which I prefer to use on my systems.
 
 It's a US-based layout with some special characters available on the
-<Alt>-key on the right side of the space bar. I call it RAlt in this
+Alt key on the right side of the space bar. I call it RAlt in this
 document. It may be labeled AltGr on some keyboards.
 
 Most charachter are available by holding <RAlt> while typing another
