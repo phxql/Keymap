@@ -45,3 +45,6 @@ To configure it via the GUI:
 * [Cinnamon](https://www.mkammerer.de/blog/custom-keyboard-layouts-in-cinnamon/)
 * [Xfce](https://www.mkammerer.de/blog/custom-keyboard-layouts-with-linux/)
 
+## Credits
+
+This is a fork from [chtaube](https://github.com/chtaube/Keymap), i just modified it a bit and added an installer.
